@@ -22,5 +22,16 @@ body{
 
 
 
-footer{
+
+
+
+h1, h2, h3 {
+  color: black;
+  font-weight: 700;
+}
+
+
+
+
+ footer{
    background-color: rgb(234, 217, 187);
